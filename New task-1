@@ -1,0 +1,93 @@
+Skip to content
+sasivardhangithub
+/
+Task1
+Public
+forked from Sripoojith/Task1
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Task1/Sasivardhan
+@sasivardhangithub
+sasivardhangithub Rename 01 to Sasivardhan
+ 1 contributor
+61 lines (31 sloc)  1.66 KB
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+ul {
+
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 0;
+
+  overflow: hidden;
+
+  background-color: #dddddd;
+
+}
+
+li {
+
+  float: left;
+
+}
+
+li a {
+
+  display: block;
+
+  padding: 8px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<ul>
+
+  <li><a href="#home">Home</a></li>
+
+  <li><a href="#project">News</a></li>
+
+  <li><a href="#contact">Contact</a></li>
+
+  <li><a href="#about">About</a></li>
+
+</ul>
+
+<img src ="https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png" alt="LA">
+
+<P>Spider-Man is a superhero appearing in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. He has since been featured in movies, television shows, video games, and plays. Spider-Man is the alias of Peter Parker, an orphan raised by his Aunt May and Uncle Ben in New York City after his parents Richard and Mary Parker died in a plane crash. Lee and Ditko had the character deal with the struggles of adolescence and financial issues and gave him many supporting characters, such as Flash Thompson, J. Jonah Jameson and Harry Osborn, romantic interests Gwen Stacy, Mary Jane Watson and the Black Cat, and foes such as Doctor Octopus, the Green Goblin and Venom. In his origin story, he gets spider-related abilities from a bite from a radioactive spider; these include clinging to surfaces, superhuman strength and agility, and detecting danger with his "spider-sense." He also builds wrist-mounted "web-shooter" devices that shoot artificial spider webs of his own design.</P>
+
+</body>
+
+</html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
